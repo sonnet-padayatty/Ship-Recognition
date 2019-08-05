@@ -1,5 +1,4 @@
 # AV's Game of Deeplearning (Hackathon)
-# ...................................................................................................................
 
 # Competion link: 
 https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/
